@@ -1,4 +1,4 @@
-const CACHE_NAME = "48-laws-cache-v1";
+const CACHE_NAME = "48-laws-cache-v9";
 
 const urlsToCache = [
   "./",
